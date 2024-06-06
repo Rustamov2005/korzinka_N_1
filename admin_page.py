@@ -2,7 +2,7 @@ import classes
 
 
 def add_staff():
-    print("Yangi ishchi olishingiz mumkun:")
+    print("Yangi ishchi olishingiz mumkufgfdghghvnvjn:")
     return classes.Database_ishchilar.insert_ishchilar()
 
 
